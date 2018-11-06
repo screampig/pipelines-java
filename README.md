@@ -1,3 +1,4 @@
+[![Build Status](https://quctsinoage.visualstudio.com/MyHealthClinicDemo01/_apis/build/status/MyHealthClinicDemo01-CI)](https://quctsinoage.visualstudio.com/MyHealthClinicDemo01/_build/latest?definitionId=5)
 
 # Contributing
 
